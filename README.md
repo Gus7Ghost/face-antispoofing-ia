@@ -28,7 +28,7 @@ Este proyecto implementa una solución de **visión artificial en tiempo real** 
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/face-antispoofing-ia.git
+git clone https://github.com/Gus7Ghost/face-antispoofing-ia.git
 cd face-antispoofing-ia
 
 # Instalar dependencias
